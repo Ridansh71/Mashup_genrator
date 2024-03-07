@@ -1,6 +1,7 @@
 # Music Mashup Generator
 
-![Uploading Screenshot 2024-03-07 144838.png…]()
+![Screenshot 2024-03-07 144838](https://github.com/Ridansh71/Mashup_genrator/assets/130085006/9188dbbb-48d3-4a63-942a-6e85ae1fe3a7)
+
 
 
 The Music Mashup Generator is a tool that allows users to generate custom music mashups by combining multiple audio tracks extracted from YouTube music videos.
